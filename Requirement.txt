@@ -1,0 +1,7 @@
+flask
+reportlab
+PyPDF2
+pdfplumber
+python-docx
+mammoth
+gunicorn
